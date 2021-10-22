@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "devmtm\\NovaCustomViews\\": "src/commands/"
+            "devmtm\\NovaCustomViews\\": "src/"
         }
     },
     "minimum-stability": "dev",
