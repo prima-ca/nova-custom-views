@@ -1,5 +1,5 @@
 {
-    "name": "digitalcloud/nova-custom-views",
+    "name": "prima-ca/nova-custom-views",
     "description": "A Laravel Nova custom views.",
     "authors": [{
         "name": "Motaz Marouf",
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "devmtm\\NovaCustomViews\\": "src/"
+            "devmtm\\NovaCustomViews\\": "src/commands/"
         }
     },
     "minimum-stability": "dev",
